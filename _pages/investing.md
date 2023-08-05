@@ -2,15 +2,13 @@
 layout: page
 permalink: /investing/
 title: investing
-description: Materials for courses you taught. Replace this text with your description.
+description: This is not financial advice.
 nav: true
 nav_order: 3
 ---
 
-Holding:
+Currently holding:
 
 `ATVI`
 `ADS`
 `SXR8`
-
-This is not 
