@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /roll_of_arms/
-title: roll of arms
-description: Гербовник
+permalink: /coat_of_arms/
+title: coat of arms
+description:
 nav: true
 nav_order: 4
 ---
