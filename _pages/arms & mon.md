@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /coat_of_arms/
-title: coat of arms
+permalink: /arms_mon/
+title: arms & mon
 description:
 nav: true
 nav_order: 4
