@@ -13,10 +13,10 @@ nav_order: 4
     </div>
 </div>
 <div class="caption">
-    Blazon: Purpure a base Gules charged with a broken bordure parted Argent and Vert overall a snake guardant Argent coiled around a closed book Or
+    *Blazon:* Purpure a base Gules charged with a broken bordure parted Argent and Vert overall a snake guardant Argent coiled around a closed book Or
 </div>
 <div class="caption">
-    Crest: A sea-lion affronté Argent tail Or maintaining in dexter a trident and in sinister a goblet both of the last.
+    *Crest:* A sea-lion affronté Argent tail Or maintaining in dexter a trident and in sinister a goblet both of the last
 </div>
 
 <div class="row mt-3">
