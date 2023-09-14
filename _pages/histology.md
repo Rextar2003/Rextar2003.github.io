@@ -7,4 +7,4 @@ nav: false
 nav_order:
 ---
 
-[]
+[Съединителна тъкан](danieldinev.com/connective)
