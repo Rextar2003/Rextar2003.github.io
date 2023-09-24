@@ -2,7 +2,7 @@
 layout: page
 permalink: /mnemonics/
 title: mnemonics
-description: Мнемоники
+description:
 nav: false
 nav_order:
 ---
@@ -11,17 +11,19 @@ nav_order:
 
 Oh, Oh, Oh, To Touch And Feel a Virgin Girl’s Vagina, Ah Heaven!
 
-| Нерв                      | Мнемоника |
-|---------------------------|-----------|
-| **I.** N. Olfactorius         | Oh
-| **II.** N. Opticus            | Oh
-| **III.** N. Oculomotorius     | Oh
-| **IV.** N. Trochlearis        | To
-| **V.** N. Trigeminus          | Touch
-| **VI.** N. Abducens           | And
-| **VII.** N. Facialis          | Feel
-| **VIII.** N. Vestibulocochlearis  | a Virgin
-| **IX.** N. Glossopharyngeus   | Girl's
-| **X.** N. Vagus               | Vagina
-| **XI.** N. Accessorius        | Ah
-| **XII.** N. Hypoglossus       | Heaven
+Some Say Marry Money; But My Brother Says Big Boobs Matter Most.
+
+| Нерв                      | Име | Функция |
+|---------------------------|-----------|-----------|
+| **I.** N. Olfactorius         | Oh | Сетивен
+| **II.** N. Opticus            | Oh | Сетивен
+| **III.** N. Oculomotorius     | Oh | Моторен
+| **IV.** N. Trochlearis        | To | Моторен
+| **V.** N. Trigeminus          | Touch | Смесен
+| **VI.** N. Abducens           | And | Моторен
+| **VII.** N. Facialis          | Feel | Смесен
+| **VIII.** N. Vestibulocochlearis  | a Virgin | Сетивен
+| **IX.** N. Glossopharyngeus   | Girl's | Смесен
+| **X.** N. Vagus               | Vagina | Смесен
+| **XI.** N. Accessorius        | Ah | Моторен
+| **XII.** N. Hypoglossus       | Heaven | Моторен
