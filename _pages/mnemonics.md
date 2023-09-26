@@ -27,3 +27,15 @@ Some Say Marry Money; But My Brother Says Big Boobs Matter Most.
 | **X.** N. Vagus               | Vagina | Смесен
 | **XI.** N. Accessorius        | Ah | Моторен
 | **XII.** N. Hypoglossus       | Heaven | Моторен
+
+### Ossa carpi
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/carpal_bones_mnemonic.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Скиф на луната; Трима пича търкат търкат келяв х*й.
+</div>
+
