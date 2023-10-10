@@ -3,11 +3,9 @@ layout: page
 permalink: /investing/
 title: investing
 description: This is not financial advice.
-nav: true
+nav: false
 nav_order: 3
 ---
-
-Currently holding:
 
 [ATVI](https://finance.yahoo.com/quote/ATVI/)
 [GERN](https://finance.yahoo.com/quote/GERN/)
