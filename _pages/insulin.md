@@ -1,12 +1,11 @@
 ---
 layout: page
-permalink: /hormones/
-title: hormones
+permalink: /insulin/
+title: Инсулин
 description:
 nav: false
 nav_order:
 ---
-# Хормони
 
 | **1.** Име                    | Инсулин |
 |---------------------------|-----------|
