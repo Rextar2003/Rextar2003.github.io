@@ -1,41 +1,30 @@
 ---
 layout: page
-permalink: /mnemonics/
-title: mnemonics
+permalink: /hormones/
+title: hormones
 description:
 nav: false
 nav_order:
 ---
+# Хормони
 
-### Nervi craniales
-
-Oh, Oh, Oh, To Touch And Feel a Virgin Girl’s Vagina, Ah Heaven!
-
-Some Say Marry Money; But My Brother Says Big Boobs Matter Most.
-
-| Нерв                      | Име | Функция |
-|---------------------------|-----------|-----------|
-| **I.** N. Olfactorius         | Oh | Сетивен
-| **II.** N. Opticus            | Oh | Сетивен
-| **III.** N. Oculomotorius     | Oh | Моторен
-| **IV.** N. Trochlearis        | To | Моторен
-| **V.** N. Trigeminus          | Touch | Смесен
-| **VI.** N. Abducens           | And | Моторен
-| **VII.** N. Facialis          | Feel | Смесен
-| **VIII.** N. Vestibulocochlearis  | a Virgin | Сетивен
-| **IX.** N. Glossopharyngeus   | Girl's | Смесен
-| **X.** N. Vagus               | Vagina | Смесен
-| **XI.** N. Accessorius        | Ah | Моторен
-| **XII.** N. Hypoglossus       | Heaven | Моторен
-
-### Ossa carpi
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/carpal_bones_mnemonic.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Скиф на луната; Трима пича търкат търкат келяв х*й.
-</div>
-
+| **1.** Име                    | Инсулин |
+|---------------------------|-----------|
+| **2.** Къде се образува?      | Образува се в β-клетки на Лангерхансови острови
+| **3.** Химична природа        | Пептид -> хидрофилен -> циркулира свободно в кръвта
+| **4.** Рецептори.             | Инсулинови рецептори -> върху мембраната на прицелните клетки:<br> ==1) Мускулни<br> 2) Мастни<br> 3) Чернодробни==
+| **5.** Механизъм на действие  | 
+| **6.** Физиологични ефекти    | 1. Хипогликемичен ефект<br>2. Анаболен ефект
+| **7.** Регулация на секреция  | 1. Нервна - ВНС: S - подтиска; PS - стимулира <br>2. Хуморална <br> &bull; Хормони: Глюкагон - повишава ; Адреналин - повишава <br> &bull; Прием на хранителни вещества: Въглехидрати & Белтъци
+| **8.** Нарушения на секреция  | 1. Хипофункция - намалена секреция -> захарен диабет -> тип 1 и 2<br> 2. Хиперфункция - повишена секреция -> инсулиноми -> хипогликимична кома -> смърт
+<br>
+==NB!== Хипогликемичен ефект има само инсулина
+==NB!== Хипергликемичен ефект имат:
+	Глюкагон
+	Адреналин
+	Кортизол
+	Соматотропен хормон (растежен хормон)
+	Щитовиден хормон
+<br>
+Норма глюкоза: 3,9 - 6,1 mmol/L
+< 4,5 mmol/L секрецията на инсулин спира
