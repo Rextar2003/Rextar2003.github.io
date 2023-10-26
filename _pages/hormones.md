@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /anatomy/
-title: anatomy
+permalink: /hormones/
+title: Hormones
 description: Hidden menu
 nav: false
 nav_order:
 ---
 
-[Мнемоники](https://danieldinev.com/mnemonics/)
+[Инсулин](https://danieldinev.com/insulin/)
