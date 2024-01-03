@@ -34,8 +34,14 @@ nav_order: 4
     </div>
 </div>
 
-<div class="row mt-3">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/COMMS_Rextar_final_.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/pixelcoa.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/COMMS_Rextar_final_.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Rextar_Stamp.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
