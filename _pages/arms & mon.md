@@ -27,3 +27,15 @@ nav_order: 4
 <div class="caption">
     割スイカ ~ wari suika ~ split watermelon
 </div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/rextar_herald_comp_copy.jpeg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/COMMS_Rextar_final_.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
